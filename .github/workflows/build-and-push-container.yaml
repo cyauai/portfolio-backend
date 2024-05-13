@@ -13,5 +13,5 @@ jobs:
         with:
           access_key: ${{ secrets.aws_access_key_id }}
           secret_key: ${{ secrets.aws_secret_access_key }}
-          repo: api-portfolio
+          repo: cyauai
           region: ap-southeast-2
